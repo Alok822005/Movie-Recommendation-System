@@ -37,7 +37,7 @@ this project is a movie recommendation system that combines multiple algorithms 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/69amirhossein69/Movei_Recommend_system.git
+   git clone https://github.com/Alok822005/Movie-Recommendation-System.git
 
    ```
 2. Install the required packages:
@@ -96,9 +96,6 @@ Contributions to improve CineSearch are welcome. Please follow these steps:
 3. Make your changes and commit them (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a new Pull Request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - The MovieLens dataset for providing the movie data
